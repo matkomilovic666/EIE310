@@ -1,4 +1,4 @@
-% Programa del laboratorio 0 (RUT 18.642.737-8)
+% Programa del Ejercicio 1 (RUT 18.642.737-8)
 a= 1; b=8; c=6; d=4; e=2; f=7; g=3; h=7;
 t = 0:0.3:30;
 f = exp(-(b+a)/(2*c*(d+e))*t).*sin(t);
